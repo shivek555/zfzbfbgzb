@@ -1,0 +1,49 @@
+
+hi hello how are you ?
+ cd c:/users:/
+ cd c:/users:/
+ C:\ShivekProje
+ C:\ShivekProjects:/
+ C:\ShivekProjects/
+ C:/
+ cd C:/ShivekProjects/
+ mkdir college_work
+ cd college_work/
+ cls
+ clear
+ history
+ clear history
+ clear -x
+ clear -v
+ clear -V
+ clear -T
+ clear -T Term
+ clear -T TERM
+ clear
+ git init
+ git init
+ help
+ color 3
+ git config --global.user.name "shivek555"
+ git config --global.user.email "shivekmittalr@gmail.com"
+ git config --global user.email "shivekmittalr@gmail.com"
+ git config --global user.name "shivek555"
+ git config --global user.name
+ git config --global user.email
+ clear
+ history
+ clear
+ history
+ clear
+ touch homepage.txt
+ del homepage.txt
+ cat homepage.txt
+ cat homepage.txt
+ vi
+ cd c:/shivekprojects/
+ cd college_work/
+ cat homepage.txt
+ vi homepage.txt
+ cat homepage.txt
+ 
+ 
