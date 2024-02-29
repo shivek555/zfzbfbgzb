@@ -1,5 +1,240 @@
-
-hi hello how are you ?
+ history
+    1  ggg
+    2  dszxc
+    3  cd c:/users:/
+    4  cd c:/users:/
+    5  C:\ShivekProje
+    6  C:\ShivekProjects:/
+    7  C:\ShivekProjects/
+    8  C:/
+    9  cd C:/ShivekProjects/
+   10  mkdir college_work
+   11  cd college_work/
+   12  cls
+   13  clear
+   14  history
+   15  clear history
+   16  clear -x
+   17  clear -v
+   18  clear -V
+   19  clear -T
+   20  clear -T Term
+   21  clear -T TERM
+   22  clear
+   23  git init
+   24  git init
+   25  history
+   26  tracert
+   27  tracert -j
+   28  ls-.la
+   29  ls -la
+   30  ls-la
+   31  help
+   32  color 3
+   33  git config --global.user.name "shivek555"
+   34  git config --global.user.email "shivekmittalr@gmail.com"
+   35  git config --global user.email "shivekmittalr@gmail.com"
+   36  git config --global user.name "shivek555"
+   37  git config --global user.name
+   38  git config --global user.email
+   39  clear
+   40  history
+   41  clear
+   42  history
+   43  clear
+   44  touch homepage.txt
+   45  del homepage.txt
+   46  cat homepage.txt
+   47  cat homepage.txt
+   48  vi
+   49  cd c:/shivekprojects/
+   50  cd college_work/
+   51  cat homepage.txt
+   52  vi homepage.txt
+   53  cat homepage.txt
+   54  rm agaga.txt
+   55  hostory
+   56  git-hostory
+   57  clear]
+   58  clear
+   59  history
+   60  n    1  ggg
+   61      2  dszxc
+   62      3  cd c:/users:/
+   63      4  cd c:/users:/
+   64      5  C:\ShivekProje
+   65      6  C:\ShivekProjects:/
+   66      7  C:\ShivekProjects/
+   67      8  C:/
+   68      9  cd C:/ShivekProjects/
+   69     10  mkdir college_work
+   70     11  cd college_work/
+   71     12  cls
+   72     13  clear
+   73     14  history
+   74     15  clear history
+   75     16  clear -x
+   76     17  clear -v
+   77     18  clear -V
+   78     19  clear -T
+   79     20  clear -T Term
+   80     21  clear -T TERM
+   81     22  clear
+   82     23  git init
+   83     24  git init
+   84     25  history
+   85     26  tracert
+   86     27  tracert -j
+   87     28  ls-.la
+   88     29  ls -la
+   89     30  ls-la
+   90     31  help
+   91     32  color 3
+   92     33  git config --global.user.name "shivek555"
+   93     34  git config --global.user.email "shivekmittalr@gmail.com"
+   94     35  git config --global user.email "shivekmittalr@gmail.com"
+   95     36  git config --global user.name "shivek555"
+   96     37  git config --global user.name
+   97     38  git config --global user.email
+   98     39  clear
+   99     40  history
+  100     41  clear
+  101     42  history
+  102     43  clear
+  103     44  touch homepage.txt
+  104     45  del homepage.txt
+  105     46  cat homepage.txt
+  106     47  cat homepage.txt
+  107     48  vi
+  108     49  cd c:/shivekprojects/
+  109     50  cd college_work/
+  110     51  cat homepage.txt
+  111     52  vi homepage.txt
+  112     53  cat homepage.txt
+  113     54  rm agaga.txt
+  114     55  hostory
+  115     56  git-hostory
+  116     57  clear]
+  117     58  clear
+  118     59  history
+  119  clear
+  120  clear history
+  121  clear history-T
+  122  clear history-x
+  123  clear history
+  124  clear
+  125  cd college_work/
+  126  cd C:/ShivekProjects/
+  127  cd college_work/
+  128  clear
+  129  git config
+  130  git config--global user.name
+  131  git config --global user.name
+  132  git config --global user.email
+  133  clear
+  134  vi homepage.txt
+  135  cat homepage.txt
+  136  git status
+  137  git add homepage.txt
+  138  git status
+  139  git commit -m "commit initial"
+  140  git status
+  141  cat homepage.txt
+  142  git log
+  143  git status
+  144  git commit -m "commit initial"
+  145  git commit -m "commit initial1"
+  146  git status
+  147  git log
+  148  git add homepage.txt
+  149  git add .
+  150  git add homepage.txt
+  151  git status
+  152  git commit -m "commit initial1"
+  153  git status
+  154  git log
+  155  rm desktop.ini
+  156  git status
+  157  cd Ccd C\
+  158  cd C:/ShivekProjects/
+  159  cd C:/ShivekProjects/personal
+  160  C:/ShivekProjects/personal/GitRepos/chatbot
+  161  cd C:/ShivekProjects/personal/GitRepos/chatbot
+  162  git remote add origin https://github.com/shivek555/hacktu.git
+  163  git remote add origin https://github.com/shivek555/hacktu.git
+  164  git add origin https://github.com/shivek555/hacktu.git
+  165  git remote add origin https://github.com/shivek555/hacktu.git
+  166  git branch -M main
+  167  git push -u origin main
+  168  git push  origin main
+  169  cd:
+  170  cd: shivek
+  171  history
+  172  cd: C:/ShivekProjects/~
+  173  cd C:/ShivekProjects/~
+  174  cd C:/ShivekProjects/
+  175  cd college_work
+  176  git status
+  177  git log
+  178  git branch
+  179  git branch feature
+  180  git branch
+  181  git checkout feature
+  182  touch new.txt
+  183  git add new.txt
+  184  git status
+  185  git log
+  186  git commit -m "commit initial1"
+  187  git log
+  188  git checkout master
+  189  git remote add origin https://github.com/shivek555/zfzbfbgzb.git
+  190  git branch _M mai
+  191  git branch -M main
+  192  git push -u origin mai
+  193  git remote -v
+  194  git push origin master
+  195  git push origin main
+  196  git push origin master
+  197  git branch -M master
+  198  git push origin master
+  199  git remote
+  200  cd C:/ShivekProjects/personal/GitRepos/chatbot/
+  201  branch
+  202  git branch
+  203  git revert head-3..head
+  204  git revert head-3...head
+  205  git revert head
+  206  git config --global.user.name "shivek555"
+  207  git config --global user.email "shivekmittalr@gmail.com"
+  208  git config --global user.name shivek555
+  209  git config --global user.email
+  210  git config --global user.name
+  211  git init
+  212  git status
+  213  history
+  214  touch new.txt
+  215  git add new.txt
+  216  git status
+  217  history
+  218  git log
+  219  git commit -m "commit initial"
+  220  git log
+  221  git branch feature
+  222  git branch
+  223  git branch feature
+  224  git branch feature1
+  225  git checkout feature1
+  226  git checkout master
+  227  git log --online
+  228  git log --oneline
+  229  HISTORY
+  230  history
+  231  cd C:/ShivekProjects/
+  232  cd C:/ShivekProjects/~
+  233  cd college_work/
+  234  HISTORY
+  235  history
+hello how are you ?
  cd c:/users:/
  cd c:/users:/
  C:\ShivekProje
@@ -46,5 +281,6 @@ hi hello how are you ?
  vi homepage.txt
  cat homepage.txt
 ssss
- 
+to escape use esc :wq
+
  
